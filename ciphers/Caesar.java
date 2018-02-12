@@ -1,5 +1,6 @@
 /**
- //machin copy
+ machin copy changed ecl
+ ecl
 Author : FAHRI YARDIMCI
 
 A Java implementation of Caesar Cipher.
@@ -9,6 +10,7 @@ import java.util.Scanner;
 public class Caesar {
 public static String encode (String message,int shift)
 {
+	//ecl
 	String encoded = "";
 	for(int i = 0 ; i<message.length() ;i++)
 	{
