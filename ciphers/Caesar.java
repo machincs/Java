@@ -1,5 +1,6 @@
 /**
- //machin copy
+ //machin copy git
+ //git
 Author : FAHRI YARDIMCI
 
 A Java implementation of Caesar Cipher.
@@ -12,6 +13,7 @@ public static String encode (String message,int shift)
 	String encoded = "";
 	for(int i = 0 ; i<message.length() ;i++)
 	{
+		//git
 		int current = message.charAt(i); //using char to shift characters because ascii is in-order latin alphabet
 		if(current==32)
 		{
